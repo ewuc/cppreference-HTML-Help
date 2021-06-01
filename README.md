@@ -1,9 +1,15 @@
-# CPPreference HTML Help File Book
-## C And C++ reference HTML Help File Book
-
+# CPPreference - C And C++ reference HTML Help File Book
 C And C++ reference HTML Help File Book is created from the offline HTML content, from the website https://en.cppreference.com
+## Screenshots
+![CPPreference Image 1](https://github.com/ewuc/cppreference-HTML-Help/blob/main/img.1.png)
+
+![CPPreference Image 1](https://github.com/ewuc/cppreference-HTML-Help/blob/main/img.2.png)
+
+## Why
 
 With HTML CPPreference Help Book you can search the offline documentation very fast and with very low resources. It's much better than browser, which will use 40X or more system memory. Control your privacy with offline content, there's NO Logging, NO Ads...
+
+## License
 
 The license stays the same as is in the original content, which is licensed under Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA) and by the GNU Free Documentation License (GFDL).
 
@@ -29,3 +35,6 @@ Send any questions or comments to the project page on github [GitHub](https://gi
 3. Extract the `html_book_XXXX.zip` archive, and move content from `en` folder to `CPPreference\en` folder from reprository. Beside `en` folder should also be moved `common` folder from  archive, like inside your html_book archive.
 4. Download and install Microsoft HTML Help Workshop. (On XP we are using ver 4.71.1015.0 from 1999-2000)
 5. Open the project (.HPP) and compile
+
+
+
